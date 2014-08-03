@@ -1,0 +1,25 @@
+{
+  "name": "wifi-scaners",
+  "version": "0.0.0",
+  "description": "Scan all wifi and connect",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thinhit/wifi-scaners"
+  },
+  "keywords": [
+    "wifi"
+  ],
+  "author": "ThinhNguyen",
+  "license": "GNU",
+  "bugs": {
+    "url": "https://github.com/thinhit/wifi-scaners/issues"
+  },
+  "homepage": "https://github.com/thinhit/wifi-scaners",
+  "dependencies": {
+    "flapi": "^1.1.0"
+  }
+}
